@@ -1,4 +1,4 @@
-module github.com/alanshaw/go-carbites
+module github.com/livehl/go-carbites
 
 go 1.15
 
